@@ -1,4 +1,4 @@
-<h1 align="center">Hello everybody! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm MAURÍCIO PORTILHO 👋</h1>
+<h1 align="center">Hello everybody! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm MAURÍCIO PORTILHO</h1>
 
 
 - 🌱 Atualmente estou estudando JAVA, JAVASCRIPT e Nodejs, como também Superior em Tecnologia da Análise e Desenvolvimento de Sistemas na FAESA
